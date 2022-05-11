@@ -16,7 +16,7 @@ $ pip3 install -r requirements.txt
 ```
 
 
-To run the (failing) test:
+To run the (super) test:
 
 ```
 $ py.test
