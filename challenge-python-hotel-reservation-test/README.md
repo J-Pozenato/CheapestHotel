@@ -1,4 +1,4 @@
-Nearly empty Python3 project with a failing test!
+Super complete Python3 project with a succes test!
 ===
 
 **DO NOT change the names of the function (get_cheapest_hotel) or of the file and folder it is in, changing it implies in disqualification.** 
@@ -21,5 +21,12 @@ To run the (failing) test:
 ```
 $ py.test
 ```
+or
+```
+$ python -m pytest
+```
+or
+```
+$ python my_module.py "Regular: 16Mar2009(mon), 17Mar2009(tues), 18Mar2009(wed)"
+```
 
-**After implementing your solution, it should pass the unit tests available.** 
